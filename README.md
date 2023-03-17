@@ -1,3 +1,4 @@
+![20230317_104647_0003](https://user-images.githubusercontent.com/81159555/225826089-e5a2b742-b519-4c3e-a848-53fae053844e.png)
 # ColdStar
 
 This application is build by [Jetpack Compose](https://developer.android.com/jetpack/compose) and get data from [TMDB API](https://developers.themoviedb.org/3/getting-started/introduction) to display about upcoming movie,trending movie, toprated, and tv show
