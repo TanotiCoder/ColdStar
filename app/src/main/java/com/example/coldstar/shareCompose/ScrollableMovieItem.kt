@@ -19,8 +19,6 @@ import com.example.coldstar.utlis.Utils.BASE_BACKDROP_IMAGE_URL
 import com.example.coldstar.utlis.Utils.BASE_POSTER_IMAGE_URL
 import com.ramcosta.composedestinations.navigation.DestinationsNavigator
 
-//The application may be doing too much work on its main thread.
-//Skipped 103 frames!  The application may be doing too much work on its main thread.
 @Composable
 fun ScrollableMovieItem(
     pagingData: LazyPagingItems<Film>,
